@@ -1,0 +1,10 @@
+admin
+root
+password
+hello
+12345
+014785
+iloveyou
+princess
+1234567
+rockyou
